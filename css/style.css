@@ -190,6 +190,8 @@ footer {
 
 footer .links {
   margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 footer .links > a {
