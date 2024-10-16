@@ -16,4 +16,4 @@
 
 ## Как открыть проект
 
-Посмотреть проект можно на GitHub pages.
+Посмотреть проект можно на [GitHub pages.](https://unecspectedusername.github.io/module_5/ "GitHub pages")
