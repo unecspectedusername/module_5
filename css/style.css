@@ -40,6 +40,17 @@ header p {
   margin-top: 10px;
 }
 
+@media (max-width: 490px) {
+    h1 {
+        font-size: 12vw;
+    }
+
+    header p {
+        font-size: 5vw;
+    }
+}
+  
+
 .news {
   background-color: #f4f4f4;
   padding: 50px 0 32px;
@@ -191,6 +202,8 @@ footer {
 footer .links {
   margin-bottom: 50px;
   display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
   justify-content: center;
 }
 
